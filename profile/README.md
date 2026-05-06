@@ -1,4 +1,4 @@
-# Projects and products
+# Projects
 
 ## Zapper - The process manager for agents
 [https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
