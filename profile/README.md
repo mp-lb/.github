@@ -3,7 +3,7 @@
 ## Zapper - The process manager for agents
 [https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
 
-## Doctrine - A dependency system for human intent
+## Doctrine - Dependency-tree style context management
 [https://doctrine.ink/](https://doctrine.ink/)
 
 ## Fssstack - Build at warp speed
