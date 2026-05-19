@@ -6,7 +6,7 @@
 ## Doctrine - Dependency-tree style context management
 [https://doctrine.ink/](https://doctrine.ink/)
 
-## Code Radar - Stay on top of code health.
+## Code Radar - Your guardian of code health.
 [https://coderadar.io](https://coderadar.io)
 
 ## Fssstack - Build at warp speed
