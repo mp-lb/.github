@@ -7,7 +7,7 @@
 [https://doctrine.ink/](https://doctrine.ink/)
 
 ## Code Radar - Continuous code health guardian.
-[https://coderadar.io](https://coderadar.io)
+[https://coderadar.io/](https://coderadar.io/)
 
 ## Fssstack - Build at warp speed
 [https://fssstack.mp-lb.dev/](https://fssstack.mp-lb.dev/)
