@@ -3,7 +3,7 @@
 ## Zapper - The process manager for agents
 [https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
 
-## Doctrine - Dependency-tree style context management
+## Doctrine - Composable context stores for builders
 [https://doctrine.ink/](https://doctrine.ink/)
 
 ## Code Radar - Continuous code health guardian.
