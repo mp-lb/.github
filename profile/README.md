@@ -6,7 +6,7 @@
 ## Doctrine - Composable context stores for builders
 [https://doctrine.ink/](https://doctrine.ink/)
 
-## Code Radar - Continuous code health guardian.
+## Code Radar - Continuous code health guardian
 [https://coderadar.io/](https://coderadar.io/)
 
 ## Fssstack - Build at warp speed
