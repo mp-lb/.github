@@ -12,5 +12,5 @@
 ## Fssstack - Build at warp speed
 [https://fssstack.mp-lb.dev/](https://fssstack.mp-lb.dev/)
 
-## MDKit - Build rich markdown experiences with ease
+## MDKit - Build solid markdown experiences with ease
 [https://mdkit.mp-lb.dev/](https://mdkit.mp-lb.dev/)
