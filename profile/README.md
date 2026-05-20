@@ -1,10 +1,10 @@
 # Projects
 
-## Zapper - The process manager for agents
-[https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
-
 ## Doctrine - Composable context stores for builders
 [https://doctrine.ink/](https://doctrine.ink/)
+
+## Zapper - The process manager for agents
+[https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
 
 ## Code Radar - Continuous code health guardian
 [https://coderadar.io/](https://coderadar.io/)
