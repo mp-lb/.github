@@ -14,3 +14,6 @@
 
 ## MDKit - Build solid markdown experiences with ease
 [https://mdkit.mp-lb.dev/](https://mdkit.mp-lb.dev/)
+
+## Macsetup - Set up a mac for dev
+[https://github.com/mp-lb/macsetup](https://github.com/mp-lb/macsetup)
