@@ -18,7 +18,7 @@
 ## 🐸 Zog - Better integration for Zod and MongoDB
 [https://github.com/mp-lb/zog](https://github.com/mp-lb/zog)
 
-## 🌈 Shad - MAP Lab shadcn/ui registry
+## 👓 Shad - MAP Lab shadcn/ui registry
 [https://shad.mp-lb.dev/](https://shad.mp-lb.dev/)
 
 ## 💻 Macsetup - Set up a mac for dev
