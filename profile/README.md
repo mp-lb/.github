@@ -16,7 +16,7 @@
 [https://mdkit.mp-lb.dev/](https://mdkit.mp-lb.dev/)
 
 ## 🐸 Zog - Better integration for Zod and MongoDB
-[https://github.com/mp-lb/zog](https://github.com/mp-lb/zog)
+[https://zog.mp-lb.dev/](https://zog.mp-lb.dev/)
 
 ## 👓 Shad - MAP Lab shadcn/ui registry
 [https://shad.mp-lb.dev/](https://shad.mp-lb.dev/)
