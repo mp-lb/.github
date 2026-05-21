@@ -15,7 +15,7 @@
 ## 📝 MDKit - Build solid markdown experiences with ease
 [https://mdkit.mp-lb.dev/](https://mdkit.mp-lb.dev/)
 
-## 🐸 Zog - Better integration for Zod and MongoDB
+## 🐸 Zog - Straightforward Zod and MongoDB integration
 [https://zog.mp-lb.dev/](https://zog.mp-lb.dev/)
 
 ## 👓 Shad - MAP Lab shadcn/ui registry
