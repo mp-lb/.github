@@ -21,5 +21,5 @@
 ## 👓 Shad - MAP Lab shadcn/ui registry
 [https://shad.mp-lb.dev/](https://shad.mp-lb.dev/)
 
-## 💻 Macsetup - Set up a mac for dev
+## 💻 Macsetup - MAP Lab mac setup
 [https://github.com/mp-lb/macsetup](https://github.com/mp-lb/macsetup)
