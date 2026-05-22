@@ -18,6 +18,9 @@
 ## 🐸 Zog - Straightforward Zod and MongoDB integration
 [https://zog.mp-lb.dev/](https://zog.mp-lb.dev/)
 
+## 🏀 Skills - MAP Lab skills
+[https://app.doctrine.ink/s/felixsebastian/skills/README.md](https://app.doctrine.ink/s/felixsebastian/skills/README.md)
+
 ## 👓 Shad - MAP Lab shadcn/ui registry
 [https://shad.mp-lb.dev/](https://shad.mp-lb.dev/)
 
