@@ -1,7 +1,7 @@
 # Projects
 
-## ☮️ Doctrine - Composable context stores for builders
-[https://doctrine.ink/](https://doctrine.ink/)
+## 🏛️ Forum - Composable context stores for builders
+[https://doctrine.ink/](https://forumlabs.ai/)
 
 ## ⚡️ Zapper - The process manager for agents
 [https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
