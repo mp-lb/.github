@@ -6,6 +6,9 @@
 ## ⚡️ Zapper - The process manager for agents
 [https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
 
+## 👑 InProduct - A collection of tools to put in your product
+[https://github.com/mp-lb/inproduct](https://github.com/mp-lb/inproduct)
+
 ## ☢️ Code Radar - Continuous code health guardian
 [https://coderadar.io/](https://coderadar.io/)
 
