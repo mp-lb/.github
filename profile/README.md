@@ -7,7 +7,7 @@
 [https://zapper.mp-lb.dev/](https://zapper.mp-lb.dev/)
 
 ## 👑 InProduct - A collection of tools to put in your product
-[https://github.com/mp-lb/inproduct](https://github.com/mp-lb/inproduct)
+[https://inproduct.mp-lb.dev/](https://inproduct.mp-lb.dev/)
 
 ## 🏃‍♂️ Fssstack - Build at warp speed
 [https://fssstack.mp-lb.dev/](https://fssstack.mp-lb.dev/)
